@@ -1,0 +1,8 @@
+/* spinner */
+.react-spinner-bar {
+  animation: react-spinner-spin 1.2s linear infinite;
+}
+@keyframes react-spinner-spin {
+  0% { opacity: 1 }
+  100% { opacity: 0.15 }
+}

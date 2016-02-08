@@ -1,0 +1,9 @@
+src/
+test/
+www/
+demo/
+webpack.config.js
+webpack.build.config.js
+webpack.build-pack.config.js
+.gitignore
+.babelrc
