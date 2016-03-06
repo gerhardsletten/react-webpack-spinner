@@ -1,6 +1,6 @@
 {
   "name": "react-webpack-spinner",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple react spinner with inline/embeded css",
   "main": "lib/Spinner.js",
   "scripts": {
